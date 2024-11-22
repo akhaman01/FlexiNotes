@@ -2,8 +2,6 @@
 
 Drag & Drop sticky notes App built with React JS and Appwite.
 
-Link will be provided here 👉 (LINK) once the video is posted.
-
 ### Features
 
 -   Drag and Drop notes anywhere on screen
